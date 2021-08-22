@@ -140,7 +140,7 @@ plot_file(df[df['target'] == 1]['path'].iloc[1])
 ```
 
 
-![png](output_10_0.png)
+![png](/seti-breakthrough/output_10_0.png)
 
 
 From the competition:
