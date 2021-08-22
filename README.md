@@ -1036,7 +1036,7 @@ plt.savefig(config['exp_name'] + '_lr_test.png')
 
 
 
-![png](output_32_5.png)
+![png](/seti-breakthrough/output_32_5.png)
 
 
 And now we can train the ANN:
